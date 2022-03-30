@@ -1,0 +1,73 @@
+label {
+  display: grid;
+  justify-content: center;
+}
+.tasbeh h1 {
+  display: flex;
+  justify-content: center;
+  font-size: 36px;
+  color: white;
+}
+label h2 {
+  font-size: 20px;
+  color: #ffff;
+}
+label p:first-child {
+  font-size: 14px;
+}
+label p {
+  display: flex;
+  justify-content: center;
+  font-size: 10px;
+  color: rgba(255, 255, 255, 0.08);
+}
+.clear {
+  width: 20px;
+  height: 20px;
+  border-radius: 100%;
+  background-color: #24bb77;
+}
+.funtion-form {
+  display: grid;
+}
+.btn-tasbeh {
+  display: grid;
+  justify-content: center;
+}
+.input-tasbeh {
+  display: flex;
+  justify-content: center;
+}
+
+.input-tasbeh input {
+  width: 437px;
+  height: 152px;
+  font-size: 90px;
+  color: #24bb77;
+  border-radius: 18px;
+  background-color: rgba(255, 255, 255, 0.06);
+  outline: none;
+}
+.btn-tasbeh button {
+  color: white;
+}
+.addTasbeh {
+  width: 172px;
+  height: 58px;
+  cursor: pointer;
+  background-color: #24bb77;
+  border-radius: 10px;
+}
+#clear{
+   background-color: #24bb77;
+}
+.clear-btn {
+  display: flex;
+  margin: 20px;
+}
+.clear-btn input {
+  cursor: pointer;
+}
+.clear-btn label {
+  color: white;
+}

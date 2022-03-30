@@ -1,0 +1,23 @@
+.navbar {
+  height: 90px;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
+.namaz {
+  display: flex;
+  font-size: 20px;
+  line-height: 24px;
+  line-height: 100%;
+}
+.namaz p {
+  color: #fff;
+}
+.pages {
+  display: flex;
+}
+.pages p {
+  color: #fff;
+  text-align: none;
+  margin: 10px;
+}
