@@ -11,7 +11,7 @@ function App() {
       <div className="App">
         <Header />
         <Routes>
-          <Route path="/" element={<Home/>}></Route>
+          <Route path="/namaz-app" element={<Home/>}></Route>
           <Route path="/ob-havo" element={<ObHavo/>}></Route>
           <Route path="/tasbeh" element={<Tasbeh/>}></Route>
         </Routes>

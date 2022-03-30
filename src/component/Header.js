@@ -6,7 +6,7 @@ import { Link } from "react-router-dom";
 function Header() {
   return (
     <div className="navbar">
-      <Link style={{ textAlign: "none" }} to="/">
+      <Link style={{ textAlign: "none" }} to="/namaz-app">
         <div className="namaz my-namaz">
           <img src={myNamaz} alt="my-namaz" />
           <p>MyNamaz</p>
