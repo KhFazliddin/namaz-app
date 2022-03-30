@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/namaz-app/static/css/main.8bf4c184.css",
+    "main.js": "/namaz-app/static/js/main.b5fe426e.js",
+    "index.html": "/namaz-app/index.html",
+    "main.8bf4c184.css.map": "/namaz-app/static/css/main.8bf4c184.css.map",
+    "main.b5fe426e.js.map": "/namaz-app/static/js/main.b5fe426e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8bf4c184.css",
+    "static/js/main.b5fe426e.js"
+  ]
+}
