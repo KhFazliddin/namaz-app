@@ -4,7 +4,7 @@ function ObHavo() {
   return (
     <div>
       <div>
-        <h1>ObHavo</h1>
+        <h1>Weather</h1>
       </div>
     </div>
   );
